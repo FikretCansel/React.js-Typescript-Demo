@@ -1,3 +1,7 @@
+Prepared for MEDIUM:
+https://medium.com/@fikretcansel/react-js-typescript-i%CC%87le-nas%C4%B1l-kullan%C4%B1l%C4%B1r-58398c0fa8cc
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
